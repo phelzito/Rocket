@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Rocketseat é um agragador de links para utilizar como cartão de visitas online.
+O Projeto Rocketseat é um agregador de links para utilizar como cartão de visitas online.
 
 ## 🔖 Layout
 
